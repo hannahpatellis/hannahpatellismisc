@@ -4,4 +4,5 @@ Part of the reason I love being a coder is the community. So here are some misce
 
 Items in this repo:
 
-* updateDNS [python] - A script I run with a cronjob to check my IP and update a nameserver A record on DigitalOcean (because I do not have a static IP address)
+- updateDNS [python] - A script I run with a cronjob to check my IP and update a nameserver A record on DigitalOcean (because I do not have a static IP address)
+- reactplayground [node,react,mongo] - A playground for learning React.js
